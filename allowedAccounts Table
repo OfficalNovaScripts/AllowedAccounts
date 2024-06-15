@@ -1,4 +1,4 @@
-local allowedAccounts = {
+return {
     ["BaldiIsGolden"] = true,
     ["XDarkx_xx"] = true,
     ["Magneticial"] = true,
