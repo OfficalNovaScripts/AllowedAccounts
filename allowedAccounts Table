@@ -1,0 +1,17 @@
+local allowedAccounts = {
+    ["BaldiIsGolden"] = true,
+    ["XDarkx_xx"] = true,
+    ["Magneticial"] = true,
+    ["IuvMenenders"] = true,
+    ["YourDudeUnknown"] = true,
+    ["SwagAltacc12"] = true,
+    ["EI_SIasher"] = true,
+    ["nommmmmg"] = true,
+    ["asdsgffyjhfthdtdfg"] = true,
+    ["16zvt"] = true,
+    ["Ih8TOH"] = true,
+    ["Thas_Jayy"] = true,
+    ["Fxeal"] = true,
+    ["chazonxan"] = true,
+    ["ParalelUniverses"] = true
+}
