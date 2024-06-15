@@ -13,6 +13,5 @@ local allowedAccounts = {
     ["Thas_Jayy"] = true,
     ["Fxeal"] = true,
     ["chazonxan"] = true,
-    ["ParalelUniverses"] = true,
-    ["choo0cieman"] = true
+    ["ParalelUniverses"] = true
 }
