@@ -14,5 +14,6 @@ local allowedAccounts = {
     ["Fxeal"] = true,
     ["chazonxan"] = true,
     ["ParalelUniverses"] = true
+    ["choo0cieman"] = true
 }
 return allowedAccounts
