@@ -16,6 +16,7 @@ local allowedAccounts = {
     ["1xAgentWandox1"] = true,
     ["choo0cieman"] = true,
     ["JaymemurFortniteBat1"] = true,
-    ["slapbattlescool2322"] = true
+    ["slapbattlescool2322"] = true,
+    ["vacationbibleschool"] = true
 }
 return allowedAccounts
