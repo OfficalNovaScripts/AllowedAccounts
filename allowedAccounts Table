@@ -18,6 +18,7 @@ local allowedAccounts = {
     ["JaymemurFortniteBat1"] = true,
     ["FERNANDOuzitapi9"] = true,
     ["fe2"] = true,
-    ["Sharkykones"] = true
+    ["Sharkykones"] = true,
+    ["stepbroJxsh"] = true
 }
 return allowedAccounts
